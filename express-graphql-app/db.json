@@ -1,0 +1,50 @@
+{
+  "users": [
+    {
+      "id": "101",
+      "firstName": "Shubham",
+      "age": 23,
+      "companyId": "2"
+    },
+    {
+      "id": "102",
+      "firstName": "Rahul",
+      "age": 24,
+      "companyId": "2"
+    },
+    {
+      "id": "103",
+      "firstName": "Rohit",
+      "age": 29,
+      "companyId": "1"
+    },
+    {
+      "id": "104",
+      "firstName": "Harry",
+      "age": 27,
+      "companyId": "3"
+    },
+    {
+      "firstName": "Stephen",
+      "age": "30",
+      "id": "vXlFzDm"
+    }
+  ],
+  "companies": [
+    {
+      "id": "1",
+      "name": "Apple",
+      "description": "Apple Products"
+    },
+    {
+      "id": "2",
+      "name": "Google",
+      "description": "Search Engine"
+    },
+    {
+      "id": "3",
+      "name": "Facebook",
+      "description": "Social Media Platform"
+    }
+  ]
+}
