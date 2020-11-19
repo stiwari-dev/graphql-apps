@@ -1,7 +1,6 @@
 import { graphql } from "react-apollo";
 import { Link } from "react-router";
 import gql from "graphql-tag";
-import { hashHistory } from "react-router";
 import React from "react";
 
 import fetchSongsQuery from "../../queries/fetchSongs";
